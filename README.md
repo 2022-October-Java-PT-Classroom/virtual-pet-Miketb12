@@ -19,3 +19,11 @@ Pets are not robots - they usually have some sort of self-determination! When ti
 - [ ] Create a visual representation of your pet.
 
 Rather than using numbers to convey your pet’s status, you could have some sort of visual representation of the pet. I.e., instead of printing hunger: 50, you could use smileys or ASCII art to show hunger when hunger >= 50.
+
+
+
+-------------------------------------------------------------------------
+
+MY COMMENTS
+
+Very fun project however I ran into some problems trying to make it all in to a package so I can hope to get this fixed later on and not lose many points. All functionalities are up to the requirements
